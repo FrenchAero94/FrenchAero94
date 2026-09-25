@@ -1,26 +1,26 @@
 # 👋 Hello, I'm French_Aero94!
 
-### 🎮 Software Developer • Game Developer • Web Developer
+### 🎮 Game Developer • Web Developer • Software Developer
 
 > 🇫🇷 Based in France
-> 💻 Building games, websites, applications and random projects just because I can.
+> 💻 I develop games, websites, applications and random projects for fun.
 > 🚀 Always learning, experimenting and turning ideas into code.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm **French_Aero94**, a developer from France who enjoys creating all kinds of software.
+Hey! I'm **French_Aero94**, a developer from France 🇫🇷.
 
-I mainly work on **video games**, but I also develop **websites, applications, tools and hardware projects**. I like experimenting with different technologies and learning new things through personal projects.
+I enjoy creating all kinds of projects, from **video games** to **websites and applications**. I also like experimenting with **Arduino and electronics**, and I'm always interested in discovering new technologies.
 
 ```text
 🎮 Game Development
 🌐 Web Development
-📱 Application Development
-🔧 Hardware / Arduino
-🐧 Linux & Development Tools
-🧪 Random projects & experiments
+💻 Application Development
+🔌 Arduino & Electronics
+🧪 Random Projects
+🚀 Learning & Experimenting
 ```
 
 ---
@@ -41,50 +41,34 @@ I mainly work on **video games**, but I also develop **websites, applications, t
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" title="Lua" width="45" height="45"/>
 </a>
 
-<a href="https://developer.mozilla.org/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="45" height="45"/>
 </a>
 
-<a href="https://developer.mozilla.org/docs/Web/HTML">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML" title="HTML" width="45" height="45"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="45" height="45"/>
 </a>
 
 <a href="https://www.arduino.cc/">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="45" height="45"/>
 </a>
 
-<a href="https://www.linux.org/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="45" height="45"/>
-</a>
-
-<a href="https://www.docker.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="45" height="45"/>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="45" height="45"/>
 </a>
 
 </p>
 
-### 💡 Languages
+### 💻 Languages
 
-* 🟣 **C#**
-* 🐍 **Python**
-* 🌙 **Lua**
-* 🟨 **JavaScript**
-* 🌐 **HTML**
-* 🔌 **Arduino / C++**
-
-### 🔧 Tools & Technologies
-
-* 💙 **Visual Studio Code**
-* 🐧 **Linux**
-* 🔌 **Arduino**
-* 🐳 **Docker**
-* 🎮 **Game Development**
-* 🌐 **Web Development**
-* 📱 **Application Development**
+| Technology           | Usage                           |
+| -------------------- | ------------------------------- |
+| 🔷 **C#**            | Applications & Game Development |
+| 🐍 **Python**        | Applications, Tools & Scripts   |
+| 🌙 **Lua**           | Game Development & Scripting    |
+| 🟨 **JavaScript**    | Web Development                 |
+| 🌐 **HTML**          | Web Development                 |
+| 🔌 **Arduino / C++** | Hardware & Electronics          |
 
 ---
 
@@ -92,36 +76,30 @@ I mainly work on **video games**, but I also develop **websites, applications, t
 
 ### 🕹️ Game Development
 
-I enjoy creating games and experimenting with gameplay mechanics, systems, tools and various game-related projects.
+I enjoy creating games and experimenting with gameplay mechanics, systems, tools and different game-related projects.
 
 ### 🌐 Web Development
 
-I build websites and web projects using technologies such as **HTML, JavaScript and Python**.
+I build websites and web projects using technologies such as **HTML and JavaScript**.
 
-### 📱 Application Development
+### 💻 Application Development
 
-I create software applications and tools, mainly experimenting with **C# and Python**.
+I create applications and various software projects, mainly using **C# and Python**.
 
-### 🔌 Hardware
+### 🔌 Arduino & Electronics
 
-I also enjoy working with **Arduino**, combining software with electronics to create small experiments and projects.
+I also enjoy working with **Arduino**, combining programming and electronics to create small projects and experiments.
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
+
+> 🚧 Check out my repositories to discover my latest projects!
 
 <p align="center">
 
-<a href="https://github.com/FrenchAero94">
-<img src="https://github-readme-stats.vercel.app/api?username=FrenchAero94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="FrenchAero94's GitHub Stats"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/FrenchAero94">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchAero94&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+<a href="https://github.com/FrenchAero94?tab=repositories">
+<img src="https://img.shields.io/badge/🔎_Explore_My_Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
 
 </p>
@@ -136,7 +114,7 @@ I also enjoy working with **Arduino**, combining software with electronics to cr
 <img src="https://img.shields.io/badge/GitHub-FrenchAero94-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-<a href="https://discord.com/">
+<a href="https://discord.com/users/qjpv">
 <img src="https://img.shields.io/badge/Discord-French_Aero94-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
@@ -144,11 +122,13 @@ I also enjoy working with **Arduino**, combining software with electronics to cr
 
 ---
 
-## 👀 Profile
+## 👀 Profile Views
 
-<a href="https://github.com/FrenchAero94">
-<img src="https://komarev.com/ghpvc/?username=FrenchAero94&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=FrenchAero94&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</p>
 
 ---
 
@@ -156,8 +136,6 @@ I also enjoy working with **Arduino**, combining software with electronics to cr
 
 ### 💻 "Turning ideas into code, one random project at a time."
 
-</p>
+⭐ Feel free to explore my repositories!
 
-<p align="center">
-⭐ Feel free to explore my repositories and check out my projects!
 </p>
