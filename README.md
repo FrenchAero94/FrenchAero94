@@ -114,7 +114,7 @@ I also enjoy working with **Arduino**, combining programming and electronics to 
 <img src="https://img.shields.io/badge/GitHub-FrenchAero94-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-<a href="https://discord.com/users/qjpv">
+<a href="https://discord.com/users/French_Aero94">
 <img src="https://img.shields.io/badge/Discord-French_Aero94-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
